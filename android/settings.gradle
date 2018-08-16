@@ -1,0 +1,3 @@
+rootProject.name = 'Laika'
+
+include ':app'
